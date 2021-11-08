@@ -46,7 +46,7 @@ const EjemploHookUseEffect = () => {
 
                         </div>
                                                 
-                        <button onClick={() =>{setSuma(valor1, valor2);}} className="btn btn-primary">Enviar</button>
+                        
                     </div>
                     <div className="col border border-primary  m-1">
                         <h3 className="text-center">El resultado de la suma de las variables 1 y  2, es:</h3>

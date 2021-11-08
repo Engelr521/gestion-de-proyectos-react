@@ -1,5 +1,5 @@
-import React, {useState} from 'react'
-
+import React from 'react'
+import Button from '../components/Button';
 
 
 const Index = () => {
@@ -32,8 +32,8 @@ const Index = () => {
                         
                         <button type="submit" className="btn btn-primary">Submit</button>
                     </form>
-                    <div className="col">
-                        
+                    <div className="col text-center">
+                        <Button />
                     </div>
                 </div>
             </div>
